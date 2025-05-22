@@ -21,8 +21,8 @@ git clone https://github.com/AzizurRahamanGithub/Employers-Management-System.git
 2. **Create and activate a virtual environment**
 
 ```bash
-python3 -m venv venv
-source venv/bin/activate  # Linux/macOS
+python3 -m venv env
+source env/bin/activate  # This cmd is for Linux user
 ```
 3. **Install dependencies**
 
