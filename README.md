@@ -17,7 +17,6 @@ You can import and use the Postman collection here:
 
 ```bash
 git clone https://github.com/AzizurRahamanGithub/Employers-Management-System.git
-cd <your-repo-folder>
 ```
 2. **Create and activate a virtual environment**
 
